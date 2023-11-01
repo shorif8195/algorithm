@@ -50,7 +50,7 @@ int main(){
         for(int v:ans){
             cout<<v<<" ";
         }
-        ans={0};
+        ans.clear();
         cout<<endl;
         cc++;
     }
